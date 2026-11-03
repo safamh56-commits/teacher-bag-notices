@@ -1,5 +1,14 @@
 {
   "version": 1,
-  "seq": 0,
-  "notifications": []
+  "seq": 1,
+  "notifications": [
+    {
+      "id": "23e3e442-9029-42d4-b4f9-a47f1055021d",
+      "title": "تجريبي",
+      "message": "سوف يتم تجريب الاشعارات حياكم الله اساتذة",
+      "type": "info",
+      "date": "2026-11-03T12:34:55Z",
+      "active": true
+    }
+  ]
 }
